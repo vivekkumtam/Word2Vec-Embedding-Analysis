@@ -1,0 +1,10 @@
+happy	joyful	0.9
+angry	sad	0.2
+movie	film	0.8
+good	excellent	0.9
+bad	horrible	0.1
+love	hate	0.3
+beautiful	ugly	0.2
+fun	boring	0.4
+actor	actress	0.7
+script	plot	0.6
